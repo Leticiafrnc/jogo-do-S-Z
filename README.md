@@ -1,4 +1,4 @@
- ## Jogo do "S"
+ ## Jogo do "S" e "Z"
  Esse projeto foi desenvolvido à partir dos ensinamentos do professor [Gustavo Guanabara - no Curso em video de JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm) foi criado para fortalecer meus aprendizados da aula de DOM e condições compostas no JavaScript. 
 
 <h4 align="center"> 
