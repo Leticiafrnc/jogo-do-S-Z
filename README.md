@@ -1,4 +1,4 @@
- ## Jogo do "R"
+ ## Jogo do "S"
  Esse projeto foi desenvolvido à partir dos ensinamentos do professor [Gustavo Guanabara - no Curso em video de JavaScript](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm) foi criado para fortalecer meus aprendizados da aula de DOM e condições compostas no JavaScript. 
 
 <h4 align="center"> 
@@ -12,7 +12,7 @@
 ### 🏁 Instalação
 
 Antes de começar, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-Clone este repositório usando git clone: https://github.com/Leticiafrnc/jogo-do-R.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
+Clone este repositório usando git clone: https://github.com/Leticiafrnc/jogo-do-S-Z.git ou clique em Code/Download ZIP. Clique no arquivo "index.HTML" e veja a aplicação.
 
 ### 🛠 Tecnologias
 
